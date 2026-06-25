@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#f8f9f5"/>
+  <circle cx="60" cy="115" r="14" fill="#666"/>
+  
+  <!-- Left diagonal shape -->
+  <path d="M50 85 L100 135 L120 115 L70 65 Z" fill="#222"/>
+  
+  <!-- Right curved ribbon shape -->
+  <path d="M90 125 C 110 80, 140 75, 170 115 L 145 115 C 125 90, 110 95, 100 115 Z" fill="#111"/>
+</svg>

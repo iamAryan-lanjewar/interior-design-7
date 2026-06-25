@@ -1,0 +1,8 @@
+{
+  "name": "Shivhare Architects & Interiors",
+  "description": "Website for Nagpur's premier luxury architect and interior design firm, featuring an interactive portfolio and premium consultation scheduling engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
